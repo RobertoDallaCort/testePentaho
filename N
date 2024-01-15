@@ -1,0 +1,23 @@
+[33mcommit a8e7ba7b5003575b128d9e1c49501e78ffdd50e6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Roberto Dallacort <roberto.dallacort@apti.local>
+Date:   Mon Jan 15 09:30:01 2024 -0300
+
+    Nova Demanda
+
+[33mcommit 60894d8cdeacb29150b97fa10fe0e7b0484f392b[m
+Author: RobertoDallaCort <156670801+RobertoDallaCort@users.noreply.github.com>
+Date:   Mon Jan 15 09:20:55 2024 -0300
+
+    Create Teste
+
+[33mcommit e9ca885cd48c82a14d63014b81e88dbb6290cb94[m[33m ([m[1;31morigin/Teste[m[33m, [m[1;32mTeste[m[33m)[m
+Author: Roberto Dallacort <roberto.dallacort@apti.local>
+Date:   Mon Jan 15 09:14:51 2024 -0300
+
+    Teste com New Branch
+
+[33mcommit 3c4cf16c87ca2f3d5ffea67f548337196969182b[m
+Author: Roberto Dallacort <roberto.dallacort@apti.local>
+Date:   Mon Jan 15 09:06:08 2024 -0300
+
+    Teste de Versionamento Pentaho

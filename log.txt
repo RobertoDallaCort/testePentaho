@@ -1,0 +1,38 @@
+ 
+ 
+ 
+ 
+ 
+ 
+DEBUG: Using JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=C:\Program Files\Java\jdk-1.8
+DEBUG: _PENTAHO_JAVA=C:\Program Files\Java\jdk-1.8\bin\java.exe
+
+C:\data-integration>"C:\Program Files\Java\jdk-1.8\bin\java.exe"   "-Xms1024m" "-Xmx2048m" "-Djava.library.path=libswt\win64;/bin" "-Djava.endorsed.dirs=C:\Program Files\Java\jdk-1.8\jre\lib\endorsed;C:\Program Files\Java\jdk-1.8\lib\endorsed;C:\data-integration\system\karaf\lib\endorsed"  "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\launcher.jar -lib ..\libswt\win64  -main org.pentaho.di.kitchen.Kitchen -initialDir "C:\pentahoserverrepository"\ /file:"C:\pentahoserverrepository\main.kjb" /level:Basic 
+ 
+ 
+DEBUG: Using JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=C:\Program Files\Java\jdk-1.8
+DEBUG: _PENTAHO_JAVA=C:\Program Files\Java\jdk-1.8\bin\java.exe
+
+C:\data-integration>"C:\Program Files\Java\jdk-1.8\bin\java.exe"   "-Xms1024m" "-Xmx2048m" "-Djava.library.path=libswt\win64;/bin" "-Djava.endorsed.dirs=C:\Program Files\Java\jdk-1.8\jre\lib\endorsed;C:\Program Files\Java\jdk-1.8\lib\endorsed;C:\data-integration\system\karaf\lib\endorsed"  "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\launcher.jar -lib ..\libswt\win64  -main org.pentaho.di.kitchen.Kitchen -initialDir "C:\pentahoserverrepository"\ /file:"C:\pentahoserverrepository\main.kjb" /level:Basic 
+ 
+ 
+DEBUG: Using JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=C:\Program Files\Java\jdk-1.8
+DEBUG: _PENTAHO_JAVA=C:\Program Files\Java\jdk-1.8\bin\java.exe
+
+C:\data-integration>"C:\Program Files\Java\jdk-1.8\bin\java.exe"   "-Xms1024m" "-Xmx2048m" "-Djava.library.path=libswt\win64;/bin" "-Djava.endorsed.dirs=C:\Program Files\Java\jdk-1.8\jre\lib\endorsed;C:\Program Files\Java\jdk-1.8\lib\endorsed;C:\data-integration\system\karaf\lib\endorsed"  "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\launcher.jar -lib ..\libswt\win64  -main org.pentaho.di.kitchen.Kitchen -initialDir "C:\Windows\system32"\ /file:"C:\pentahoserverrepository\Schedule por Dia.kjb" /level:Basic 
+2024/01/15 13:27:36 - Kitchen - Logging is at level : Log básico
+2024/01/15 13:27:37 - Kitchen - Start of run.
+2024/01/15 13:27:47 - Schedule por Dia - Início da execução do job
+2024-01-15 13:27:48,114 Thread-7 ERROR Unable to delete file C:\data-integration\logs\pdi.log: java.nio.file.FileSystemException C:\data-integration\logs\pdi.log: O arquivo já está sendo usado por outro processo.
+
+2024/01/15 13:27:48 - Schedule por Dia - Schedule por Dia
+ 
+ 
+DEBUG: Using JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=C:\Program Files\Java\jdk-1.8
+DEBUG: _PENTAHO_JAVA=C:\Program Files\Java\jdk-1.8\bin\java.exe
+
+C:\data-integration>"C:\Program Files\Java\jdk-1.8\bin\java.exe"   "-Xms1024m" "-Xmx2048m" "-Djava.library.path=libswt\win64;/bin" "-Djava.endorsed.dirs=C:\Program Files\Java\jdk-1.8\jre\lib\endorsed;C:\Program Files\Java\jdk-1.8\lib\endorsed;C:\data-integration\system\karaf\lib\endorsed"  "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\launcher.jar -lib ..\libswt\win64  -main org.pentaho.di.kitchen.Kitchen -initialDir "C:\pentahoserverrepository"\ /file:"C:\pentahoserverrepository\Schedule por Dia.kjb" /level:Basic 
